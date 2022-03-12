@@ -1,20 +1,15 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
 
-
-
 /**
-
- * main - Prints a text according number
-
- *
-
+* main - Prints a text according number
+*
  * Return: Always (Success)
 
  */
+
+int main(void)
 
 int main(void)
 
@@ -61,4 +56,3 @@ int main(void)
 	return (0);
 
 }
-
